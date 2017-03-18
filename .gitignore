@@ -11,3 +11,10 @@ tinyxml2/tinyxml2-cbp/obj/
 *.user
 *.depend
 *.layout
+
+# Buck
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
